@@ -1,0 +1,118 @@
+If you want to calculate the future value of a Systematic Investment Plan (SIP) over a duration of **6 months** instead of 50 weeks, we can break it down similarly.
+
+### Given Parameters
+1. **Monthly Investment (SIP)**: Rs. 5000
+2. **Weekly Interest Rate**: 5% (0.05)
+3. **Total Duration**: 6 months (approximately 24 weeks, assuming 4 weeks per month)
+
+### Investment Schedule
+You will invest Rs. 5000 every month for 6 months. Each investment will compound for a different number of weeks, which we will calculate.
+
+### Monthly Investments and Compounding
+- **First SIP**: Compounds for 24 weeks (first month)
+- **Second SIP**: Compounds for 20 weeks (second month)
+- **Third SIP**: Compounds for 16 weeks (third month)
+- **Fourth SIP**: Compounds for 12 weeks (fourth month)
+- **Fifth SIP**: Compounds for 8 weeks (fifth month)
+- **Sixth SIP**: Compounds for 4 weeks (sixth month)
+
+### Future Value Calculation
+Using the formula for future value:
+
+\[
+FV = P \times (1 + r)^{n}
+\]
+
+Where:
+- \( P \) = Rs. 5000 (monthly SIP)
+- \( r \) = 0.05 (weekly interest rate)
+- \( n \) = Number of weeks left for compounding.
+
+### Future Value for Each SIP
+1. **First SIP** (24 weeks):
+   \[
+   FV_1 = 5000 \times (1 + 0.05)^{24}
+   \]
+
+2. **Second SIP** (20 weeks):
+   \[
+   FV_2 = 5000 \times (1 + 0.05)^{20}
+   \]
+
+3. **Third SIP** (16 weeks):
+   \[
+   FV_3 = 5000 \times (1 + 0.05)^{16}
+   \]
+
+4. **Fourth SIP** (12 weeks):
+   \[
+   FV_4 = 5000 \times (1 + 0.05)^{12}
+   \]
+
+5. **Fifth SIP** (8 weeks):
+   \[
+   FV_5 = 5000 \times (1 + 0.05)^{8}
+   \]
+
+6. **Sixth SIP** (4 weeks):
+   \[
+   FV_6 = 5000 \times (1 + 0.05)^{4}
+   \]
+
+### Total Future Value Calculation
+To find the total future value after 6 months, sum all the future values:
+
+\[
+\text{Total Future Value} = FV_1 + FV_2 + FV_3 + FV_4 + FV_5 + FV_6
+\]
+
+### Example Calculation
+Let's calculate the future values for each SIP investment based on the above formulas:
+
+1. **First SIP** (24 weeks):
+   \[
+   FV_1 = 5000 \times (1 + 0.05)^{24} \approx 5000 \times 3.207 = 16035
+   \]
+
+2. **Second SIP** (20 weeks):
+   \[
+   FV_2 = 5000 \times (1 + 0.05)^{20} \approx 5000 \times 2.653 = 13265
+   \]
+
+3. **Third SIP** (16 weeks):
+   \[
+   FV_3 = 5000 \times (1 + 0.05)^{16} \approx 5000 \times 2.267 = 11335
+   \]
+
+4. **Fourth SIP** (12 weeks):
+   \[
+   FV_4 = 5000 \times (1 + 0.05)^{12} \approx 5000 \times 1.892 = 9460
+   \]
+
+5. **Fifth SIP** (8 weeks):
+   \[
+   FV_5 = 5000 \times (1 + 0.05)^{8} \approx 5000 \times 1.477 = 7385
+   \]
+
+6. **Sixth SIP** (4 weeks):
+   \[
+   FV_6 = 5000 \times (1 + 0.05)^{4} \approx 5000 \times 1.215 = 6075
+   \]
+
+### Total Future Value
+Now, add these future values together:
+
+\[
+\text{Total Future Value} = 16035 + 13265 + 11335 + 9460 + 7385 + 6075
+\]
+
+Calculating this gives:
+
+\[
+\text{Total Future Value} \approx 16035 + 13265 + 11335 + 9460 + 7385 + 6075 \approx  68655
+\]
+
+### Conclusion
+The total future value of your SIP investments after 6 months, with the specified parameters, is approximately **Rs. 68,655**.
+
+Feel free to ask if you have any more questions or if you'd like to see more detailed calculations!
